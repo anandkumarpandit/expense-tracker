@@ -10,7 +10,6 @@ Take control of your finances with ease. Whether you’re budgeting for the mont
 **Server:** Node.js, Express.js,MongoDB ,WT (JSON Web Token)
 
 ## Screenshots
-
 ![App Screenshot](https://res.cloudinary.com/dbzjoc5rr/image/upload/v1744824811/f06rt15curizy7hq0kc7.png)
 
 ![App Screenshot](https://res.cloudinary.com/dbzjoc5rr/image/upload/v1744824873/zvkrpvqzrwnkcma6hsj6.png)
