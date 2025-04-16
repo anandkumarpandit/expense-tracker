@@ -11,13 +11,12 @@ Take control of your finances with ease. Whether you’re budgeting for the mont
 
 ## Screenshots
 ![App Screenshot](https://res.cloudinary.com/dbzjoc5rr/image/upload/v1744825486/w8bxqgjrflcowqqcjqvs.png)
+
 ![App Screenshot](https://res.cloudinary.com/dbzjoc5rr/image/upload/v1744825589/nevqovhtkpthzxqrvn3l.png)
 
 ![App Screenshot](https://res.cloudinary.com/dbzjoc5rr/image/upload/v1744824998/dy4uf1muyrkieseeorf8.png)
 
 ![App Screenshot](https://res.cloudinary.com/dbzjoc5rr/image/upload/v1744824941/p9wgpdul1w3wv9ykkxca.png)
-
-![App Screenshot](https://res.cloudinary.com/dbzjoc5rr/image/upload/v1744825041/oxaacpp7t5cu5oe5lqfd.png)
 
 ![App Screenshot](https://res.cloudinary.com/dbzjoc5rr/image/upload/v1744825041/oxaacpp7t5cu5oe5lqfd.png)
 
